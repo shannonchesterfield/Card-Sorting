@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sorting_Cards/1.0.0": {
+        "runtime": {
+          "Sorting_Cards.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sorting_Cards/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\bin\Debug\netcoreapp3.1\Sorting_Cards.exe
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\bin\Debug\netcoreapp3.1\Sorting_Cards.deps.json
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\bin\Debug\netcoreapp3.1\Sorting_Cards.runtimeconfig.json
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\bin\Debug\netcoreapp3.1\Sorting_Cards.runtimeconfig.dev.json
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\bin\Debug\netcoreapp3.1\Sorting_Cards.dll
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\bin\Debug\netcoreapp3.1\Sorting_Cards.pdb
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\obj\Debug\netcoreapp3.1\Sorting_Cards.csprojAssemblyReference.cache
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\obj\Debug\netcoreapp3.1\Sorting_Cards.AssemblyInfoInputs.cache
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\obj\Debug\netcoreapp3.1\Sorting_Cards.AssemblyInfo.cs
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\obj\Debug\netcoreapp3.1\Sorting_Cards.csproj.CoreCompileInputs.cache
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\obj\Debug\netcoreapp3.1\Sorting_Cards.dll
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\obj\Debug\netcoreapp3.1\Sorting_Cards.pdb
+C:\Users\schester\Documents\VisualStudio2019\Projects\Sorting_Cards\Sorting_Cards\obj\Debug\netcoreapp3.1\Sorting_Cards.genruntimeconfig.cache
